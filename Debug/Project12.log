@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Eduardo Borges Benck\source\repos\Project12\Project12\main.cpp(11,19): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Eduardo Borges Benck\source\repos\Project12\Project12\main.cpp(98,33): warning C4244: 'argumento': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\Eduardo Borges Benck\source\repos\Project12\Project12\main.cpp(98,23): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+  Project12.vcxproj -> C:\Users\Eduardo Borges Benck\source\repos\Project12\Debug\Project12.exe

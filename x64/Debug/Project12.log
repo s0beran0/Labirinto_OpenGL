@@ -1,0 +1,13 @@
+﻿  main.cpp
+main.obj : error LNK2019: símbolo externo não resolvido, __imp_glewInit, referenciado na função main
+main.obj : error LNK2019: símbolo externo não resolvido, __imp_glutInitWindowSize, referenciado na função main
+main.obj : error LNK2019: símbolo externo não resolvido, __imp_glutInitDisplayMode, referenciado na função main
+main.obj : error LNK2019: símbolo externo não resolvido, __imp_glutMainLoop, referenciado na função main
+main.obj : error LNK2019: símbolo externo não resolvido, __imp_glutSwapBuffers, referenciado na função "void __cdecl render(void)" (?render@@YAXXZ)
+main.obj : error LNK2019: símbolo externo não resolvido, __imp_glutReshapeFunc, referenciado na função main
+main.obj : error LNK2019: símbolo externo não resolvido, __imp_glutDisplayFunc, referenciado na função main
+main.obj : error LNK2019: símbolo externo não resolvido, __imp___glutInitWithExit, referenciado na função glutInit_ATEXIT_HACK
+main.obj : error LNK2019: símbolo externo não resolvido, __imp___glutCreateWindowWithExit, referenciado na função glutCreateWindow_ATEXIT_HACK
+C:\Users\Eduardo Borges Benck\OneDrive\Documentos\bibliotecas\Glew and Glut\glew-1.11.0\lib\glew32.lib : warning LNK4272: o tipo de máquina da biblioteca 'x86' está em conflito com o tipo de máquina de destino 'x64'
+C:\Users\Eduardo Borges Benck\OneDrive\Documentos\bibliotecas\Glew and Glut\freeglut\lib\freeglut.lib : warning LNK4272: o tipo de máquina da biblioteca 'x86' está em conflito com o tipo de máquina de destino 'x64'
+C:\Users\Eduardo Borges Benck\source\repos\Project12\x64\Debug\Project12.exe : fatal error LNK1120: 9 externo não resolvidos
